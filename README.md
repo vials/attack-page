@@ -7,6 +7,7 @@ It will then post the name of the server, the IP address, whether the attack has
 
 1. Edit the script and put in your webhook (line 12)
 2. Edit the switch statement and add in your own IP addresses. 
+3. Put your web address into the attack monitor on FTH (ex. https://attack.jamdoog.com)
 
 ### Prerequisites
 
