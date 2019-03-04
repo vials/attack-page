@@ -30,7 +30,7 @@
                 $server = "My FTH server here";
                 break;
             default:
-                $server = "None-Augment Server";
+                $server = "None-FTH Server";
                 break;
         }
         
@@ -62,6 +62,6 @@
         <title>Attack API for Discord</title>
     </head>
     <body>
-        <h1>This is the landing page for the attacks on Augment </h1>
+        <h1>This is the landing page for the attacks. </h1>
     </body>
 </html>
